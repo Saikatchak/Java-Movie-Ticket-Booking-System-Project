@@ -1,0 +1,9 @@
+abc,t1,5,10.0
+mov1,tr1,10,8.0
+kgf,Bmg,2,40.0
+kgf,BMG,30,40.0
+jkl,56,5666666,45.0
+kgf,bmg,50,40.0
+Avengers,Moviemania,30,400.0
+Avengers Endgame,PVR Cinemas,4,50.0
+kgf,bmg,40,400.0
